@@ -30,7 +30,7 @@ match lower_response:
     case "how are you":
         print("I'm just a program, but I'm doing well!")
     case "what is your name" | "who are you":
-        print("I'm GitHub Copilot, your programming assistant.")
+        print("I'm FakeLLM, \"LLM\" built by Clement.")
     case "what can you do" | "help":
         print("I can answer questions, help with code, and chat with you!")
     case "what time is it" | "time":
